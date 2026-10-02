@@ -1,4 +1,6 @@
 #Python Basics
-This repository contains my Python basics pratice programs.
+<br>
+This repository contains my Python basics praCtice programs.
+Varshini I
 
 
